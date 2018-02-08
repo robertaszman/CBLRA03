@@ -1,7 +1,7 @@
        identification division.
        program-id.     CBLRA03.
-       AUTHOR.         Robert Aszman.
-       DATE-WRITTEN.   1/15/2018.
+       AUTHOR.         Robert Aszman(REVISED).
+       DATE-WRITTEN.   2/08/2018.
        environment division.
        INPUT-OUTPUT SECTION.
        FILE-CONTROL.
